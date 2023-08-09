@@ -10,15 +10,8 @@
   <h1 align="center">Wills ComfyUI Workflows</h1>
 
   <p align="center">
-    ComfyUI Workflows for Image Generation
+    ComfyUI Workflows for AI Image Generation
     <br />
-    <a href="https://github.com/othneildrew/will_diffusion_worfklow.json"><strong>View the workflow »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </div>
 
 ## About The Project
