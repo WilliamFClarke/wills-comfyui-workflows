@@ -24,7 +24,6 @@ This workflow included supportfor:
 - LoRA
 - VAE
 - Face Detailer
-- Stable Diffusion Upscaler
 
 ### Rquiremnets
 
