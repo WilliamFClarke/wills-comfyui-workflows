@@ -43,6 +43,6 @@ Run ComfyUI and Load the `will_diffusion_worfklow.json` workflow from the UI.
 
 if you dont want to use a LoRA you can simply bypass the `Load LoRA` node.
 
-<img src="images\wills-comfyui-workflow-image.png" alt="Workflow">
+<img src="images\wills-comfyui-workflow-image.jpg" alt="Workflow">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
